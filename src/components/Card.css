@@ -1,0 +1,26 @@
+.card{
+    width: 500px;
+    border: 3px solid mediumaquamarine;
+    background-color: aqua;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.card-img{
+    width: 450px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.h1{
+    text-align: center;
+}
+
+.wrapper {
+    margin-right: auto; /* 1 */
+    margin-left:  auto; /* 1 */  
+    max-width: 960px; /* 2 */  
+    padding-right: 10px; /* 3 */
+    padding-left:  10px; /* 3 */
+}
